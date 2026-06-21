@@ -32,7 +32,7 @@ Task-Manager-App/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sah-24/To-Do-list-Webpage.git
+(https://github.com/Sah-24/Task-Manager-WebPage.git)
 ```
 
 2. Open the project folder.
