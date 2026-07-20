@@ -1,7 +1,7 @@
 # Task Manager App
 
 A simple and responsive Task Manager application built using HTML, CSS, and JavaScript. The application helps users organize their daily tasks efficiently with an intuitive user interface.
-
+<a href="https://sah-24.github.io/Task-Manager-WebPage/">Link<a>
 ## Features
 
 - Add new tasks
@@ -42,7 +42,7 @@ Task-Manager-App/
 ## Screenshots
 
 ### Main Interface
-<img width="1920" height="1080" alt="Screenshot 2026-06-20 152139" src="https://github.com/user-attachments/assets/0e87c0cd-f36d-4313-9c0c-af9f99728927" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-20 152139" src="C:\Users\singh\OneDrive\Pictures\Screenshots\Screenshot 2026-07-21 003223.png" />
 ### Task Management
 
 ## Future Improvements
