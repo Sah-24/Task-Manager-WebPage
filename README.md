@@ -42,13 +42,8 @@ Task-Manager-App/
 ## Screenshots
 
 ### Main Interface
-
-(Add screenshot here)
-
-### Task Management
-
 <img width="1920" height="1080" alt="Screenshot 2026-06-20 152139" src="https://github.com/user-attachments/assets/0e87c0cd-f36d-4313-9c0c-af9f99728927" />
-
+### Task Management
 
 ## Future Improvements
 
