@@ -28,6 +28,41 @@ h2 {
     text-align: center;
 }
 
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.filter-buttons {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.filter-btn {
+    padding: 6px 14px;
+    border: 2px solid #e0e0e0;
+    background: white;
+    color: #333;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.filter-btn:hover {
+    border-color: #4a90e2;
+    color: #4a90e2;
+}
+
+.filter-btn.active {
+    background: #4a90e2;
+    color: white;
+    border-color: #4a90e2;
+}
+
 .input-section {
     display: flex;
     gap: 10px;
