@@ -39,10 +39,6 @@ Task-Manager-App/
 
 3. Open `index.html` in your browser.
 
-## Screenshots
-
-### Main Interface
-<img width="1920" height="1080" alt="Screenshot 2026-06-20 152139" src="C:\Users\singh\OneDrive\Pictures\Screenshots\Screenshot 2026-07-21 003223.png" />
 ### Task Management
 
 ## Future Improvements
